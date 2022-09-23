@@ -1,0 +1,6 @@
+[submodule "CSE3013"]
+	path = CSE3013
+	url = git@github.com:tonynamy/CSE3013.git
+[submodule "CSE3080"]
+	path = CSE3080
+	url = git@github.com:tonynamy/CSE3080.git
